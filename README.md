@@ -1,14 +1,12 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19699586.svg)](https://doi.org/10.5281/zenodo.19699586)
+# NEXUS-2027 Data Hackweek
 
-# PACE Data Hackweek 2025
-
-This the conent of the landing page and JupyterBook for the PACE Data Hackweek 2025.
+This the conent of the landing page and JupyterBook for the NEXUS-2027 Data Hackweek.
 
 ![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
 
 ## Users
 
-This repo is the source for our [website](https://pacehackweek.github.io/pace-2025/). Go check it out!
+This repo is the source for our [website](https://nexushackweek.github.io/nexus-2027/). Go check it out!
 
 ## Developers
 
