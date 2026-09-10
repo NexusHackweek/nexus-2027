@@ -1,5 +1,5 @@
 repo_directory: html
-name: PACE Data Hackweek
+name: NEXUS-2027 Data Hackweek
 copyright: OCB Project Office
 favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
 apply:
@@ -7,10 +7,10 @@ apply:
   title: Applications Closed
 banner:
   description: ''
-  start_date: 3 August
-  end_date: 7 August
-  year: 2025
-  location: UMBC, Baltimore, MD
+  start_date: 2 August
+  end_date: 6 August
+  year: 2027
+  location: Maritime Conference Center, Linthicum Heights, Maryland
   links:
   - url: intro.html
     title: Event Jupyter Book
@@ -26,14 +26,12 @@ banner:
     style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2025-08-03T08:30:00-04:00"
+event_countdown: "2027-08-02T08:30:00-04:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. PACE Data Hackweek 2025
-    will take place in August 2025 (in-person).</br></br>Applications open February 24, 2025 and close March 24, 2025.
-    See the application form and the last event's <a href="https://pacehackweek.github.io/pace-2024/">website</a> for
-    more information about the purpose and format of the PACE Data Hackweeks.
+    gain hands-on experience with collaboration and team science. NEXUS-2027 Data Hackweek
+    will take place in August 2027 (in-person).</br></br>Applications open February __, 2027 and close March __, 2025.
 schedule:
   !include schedule.yaml
 team:
@@ -53,7 +51,7 @@ sponsors:
 footer:
   social:
   - icon: github
-    link: https://github.com/PACEHackWeek/
+    link: https://github.com/NexusHackweek/
 _copy_without_render:
 - assets
 _extensions:
