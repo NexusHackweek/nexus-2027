@@ -4,7 +4,7 @@ logo: img/Nexus_logo.png
 only_build_toc_files: false
 parse:
   myst_substitutions:
-    hackweek: "NEXUS-2027 Data Hackweek"
+    hackweek: "NEXUS 2027: NASA Earth data eXchange for mUlti-mission Synergy"
     dates: "August 2 to 6, 2027"
     github_org_url: "https://github.com/NEXUSHackweek"
     book_repo: "nexus-2027"
