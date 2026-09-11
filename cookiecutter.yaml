@@ -1,5 +1,5 @@
 repo_directory: html
-name: NEXUS-2027 Data Hackweek
+name: NEXUS-2027 Hackweek
 copyright: OCB Project Office
 favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
 apply:
@@ -30,7 +30,7 @@ event_countdown: "2027-08-02T08:30:00-04:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. NEXUS-2027 Data Hackweek
+    gain hands-on experience with collaboration and team science. NEXUS-2027 Hackweek
     will take place in August 2027 (in-person).</br></br>Applications open February __, 2027 and close March __, 2025.
 schedule:
   !include schedule.yaml
