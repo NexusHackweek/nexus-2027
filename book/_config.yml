@@ -1,6 +1,6 @@
 title: NEXUS-2027 Data Hackweek
 author: OCB (content), UW/eScience Institute (template)
-logo: img/nexus_logo.png
+logo: img/Nexus_logo.png
 only_build_toc_files: false
 parse:
   myst_substitutions:
