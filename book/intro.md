@@ -1,6 +1,6 @@
 <h1>NEXUS-2027 Hackweek</h1>
 <p style="font-size: 1.2rem; margin-top: -10px;">
-NASA Earth data eXchange for mUlti-mission Synergy
+  <strong>N</strong>ASA <strong>E</strong>arth data e<strong>X</strong>change for m<strong>U</strong>lti-mission <strong>S</strong>ynergy
 </p>
 
 ![banner](img/pace-banner-1.png)
