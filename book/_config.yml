@@ -1,14 +1,14 @@
-title: PACE Data Hackweek
+title: NEXUS-2027 Data Hackweek
 author: OCB (content), UW/eScience Institute (template)
 logo: img/PACE-water-design-High-res.png
 only_build_toc_files: false
 parse:
   myst_substitutions:
-    hackweek: "PACE Data Hackweek"
-    dates: "August 3 to 7, 2025"
-    github_org_url: "https://github.com/PACEHackWeek"
+    hackweek: "NEXUS-2027 Data Hackweek"
+    dates: "August 2 to 6, 2027"
+    github_org_url: "https://github.com/NEXUSHackweek"
     book_repo: "pace-2025"
-    website_url: "https://pacehackweek.github.io/pace-2025"
+    website_url: "https://nexushackweek.github.io/nexus-2027"
     jupyterhub_url: <a href="https://hub.cryointhecloud.com" target="_blank">https://hub.cryointhecloud.com</a>
     slack_workspace_url: <a href="https://cryospherecloud.slack.com/archives/C075ASE8Z8W" target="_blank">https://cryospherecloud.slack.com</a>
     contact_email: "anna.windledipaola@nasa.gov"
@@ -40,7 +40,7 @@ latex:
   latex_documents:
     targetname: book.tex
 repository:
-  url: "https://github.com/PACEHackWeek/pace-2025"
+  url: "https://nexushackweek.github.io/nexus-2027"
   path_to_book: book
   branch: main
 bibtex_bibfiles:
@@ -55,8 +55,8 @@ sphinx:
         - as_version: 4
         - false # setting to the default `true` seems to break math, `false` uses MyST instead of Commmonmark
 html:
-  announcement: |
-    Archive of the 2025 event; visit our <a href="https://nasa.github.io/oceandata-notebooks/" style="color:white;">Help Hub</a> for current content.
+  #announcement: |
+    #Archive of the 2025 event; visit our <a href="https://nasa.github.io/oceandata-notebooks/" style="color:white;">Help Hub</a> for current content.
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
